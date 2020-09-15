@@ -40,7 +40,7 @@ Finally, the browser developer tools are highly useful to inspect and identify t
 
 We will use the following rubric for grading. Points are awarded in a sequential manner (e.g., you get no points for c. if b. is not satisfied) and are additive. Thus, there are 4 possible points: 0, 0.1, 0.3 and 1, or equivalently 0, 10, 30, and 100 points on Coursera. 
 
-a. Submitted all the files. There should be at least six URLs in "bio_urls.txt". -- 0.1 points 
+a. Submitted all the files. There should be at least six URLs in "bio_urls.txt". Also, please remove non-ascii characters. -- 0.1 points 
 
 		Your repo should have the following files:
 
