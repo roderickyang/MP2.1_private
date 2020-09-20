@@ -1,0 +1,523 @@
+Alessandro Acquisti is a Professor of Information Technology and Public Policy at the Heinz College, Carnegie Mellon University. His research combines economics, decision research, and data mining to investigate the role of privacy in a digital society. His studies have spearheaded the economic analysis of privacy, the application of behavioral economics to the understanding of consumer privacy valuations and decision-making, and the investigation of privacy and personal disclosures in online social networks.
+Alessandro has been the recipient of the PET Award for Outstanding Research in Privacy Enhancing Technologies, the IBM Best Academic Privacy Faculty Award, and numerous Best Paper awards. His studies have been published in journals across multiple disciplines, including Science, Proceedings of the National Academy of Science, Journal of Economic Literature, Management Science, Marketing Science, Journal of Consumer Research, and Journal of Experimental Psychology. His research has been featured in media outlets around the world, including The Economist, The New Yorker, The New York Times and New York Times Magazine, The Wall Street Journal, The Washington Post, Wired, and 60 Minutes. His TED talks on privacy and human behaviour have been viewed over a million times.
+
+Alessandro is the director of the Privacy Economics Experiments (PeeX) Lab and the co-director of the Centre for Behavioural and Decision Research (CBDR) at CMU. He is an Andrew Carnegie Fellow (inaugural class), a member of the Board of Regents of the National Library of Medicine, and has been a member of the National Academies’ Committee on public response to alerts and warnings using social media and associated privacy considerations. He has testified before the U.S. Senate and House committees and has consulted on issues related to privacy policy and consumer behavior with numerous agencies and organizations, including the White House’s Office of Science and Technology Policy (OSTP), the US Federal Trade Commission (FTC), and the European Commission.
+
+He has received a PhD from UC Berkeley and Master degrees from UC Berkeley, the London School of Economics, and Trinity College Dublin. He has held visiting positions at the Universities of Rome, Paris, and Freiburg (visiting professor); Harvard University (visiting scholar); University of Chicago (visiting fellow); Microsoft Research (visiting researcher); and Google (visiting scientist).
+
+His research interests include privacy, artificial intelligence, and Nutella. In a previous life, he has been a soundtrack composer and a motorcycle racer (USGPRU).
+
+
+Travis D. Breaux	Carnegie Mellon UniversityTravis D. Breaux
+Associate Professor of Computer Science
+Institute for Software Research
+School of Computer Science
+5000 Forbes Avenue, Pittsburgh, PA 15213	Office:
+Tel:
+Fax:
+E-mail:
+5103 Wean Hall
+412-268-7334
+412-268-3455
+breaux@cs.cmu.edu
+Links: Home | Research | Teaching | Publications | Biography | Vitae
+Research Overview
+Keywords: Privacy, Security, Requirements and Software Engineering; Risk and Legal Compliance
+
+Dr. Breaux is the Director of the CMU Requirements Engineering Lab, where his research program investigates how to specify and design software to comply with policy and law in a trustworthy, reliable manner. His work historically concerned the empirical extraction of legal requirements from policies and law, and has recently studied how to use formal specifications to reason about privacy policy compliance, how to measure and reason over ambiguous and vague policies, and how security and privacy experts and novices estimate the risk of system designs.
+
+To learn more, read about his ongoing research projects or contact him.
+
+Recent Events
+1 April 2019	Breaux appointed Director of the Masters of Software Engineering (MSE) Professional Programs. The MSE programs have a 30-year history and were the first masters degrees offered in the CMU School of Computer Science.
+8 January 2019	Breaux and Bhatia introduce their new course 17-649 Artificial Intelligence for Software Engineering offered in Spring and Fall 2019
+23 August 2018	Bhatia and Breaux received the RE 2018 Distinguished Paper Award for their paper, entitled Semantic Incompleteness in Privacy Goals
+1 August 2018	Bhatia and Breaux had their paper, entitled Empirical Measurement of Privacy Risk, accepted to ACM Transactions on Human Computer Interaction (TOCHI). A pre-publication version of this work was presented at the 2018 Federal Trade Commission (FTC) PrivacyCon
+30 May 2018	Breaux receives Distinguished Reviewer Award for his service to ICSE 2018.
+7 May 2018	Breaux joined the Editorial Board of the ACM Transactions on Software Engineering Methology (TOSEM)
+12 Dec 2017	Breaux and UT San Antonio collaborators Xiaoyin Wang et al. had their paper on checking mobile app user interfaces for privacy policy violations accepted to ICSE 2018.
+10 Feb 2017	Bhatia had her ACM TOSEM paper, entitled Privacy Goal Mining through Hybridized Task Re-composition, invited for presentation at ICSE 2017 in Buenos Aires, Argentina.
+15 Sep 2016	Breaux, Vail and Antón's 2006 RE paper, entitled "Towards Regulatory Compliance: Extracting Rights and Obligations to Align Requirements with Regulations," receives Honorable Mention for 2016 IEEE RE Most Influential Paper Award (Press Release).
+Paper Highlights
+Formal Analysis of Privacy Requirements Specifications for Multi-Tier Applications [ PDF ]
+(Breaux, Rao)
+In proceedings of IEEE RE'13, presents a formal language for expressing and checking privacy requirements specifications for conflicts; findings include techniques to model privacy policies and demonstration of potential conflicts among Facebook, Zynga and AOL Advertising. This conference publication was nominated for best paper.
+
+A Cross-Domain Empirical Study and Legal Evaluation of the Requirements Water Marking Method
+(Gordon, Breaux)
+In Requirements Engineering J. presents an empirical method for comparing legal requirements from across multiple jurisdictions; findings include analysis of data breach notificaiton laws and requirements water marks to denote high and low standards of care. This extended journal paper is based on a prior IEEE RE'12 conference publication that was nominated for best paper (DOI).
+
+Legally "Reasonable" Security Requirements: A 10-year FTC Retrospective [ PDF ]
+(Breaux, Baumer)
+In Computers and Security, 30(4): 178-193. Presents empirical results expressing a definition of legally reasonable security derived from FTC regulatory enforcement actions conducted in response to privacy violations.
+
+Analyzing Regulatory Rules for Privacy and Security Requirements [ PDF ]
+(Breaux, Antón)
+In IEEE TSE, 34(1): 5-20. Presents a method to extract access rights and obligations from regulations to reduce unwanted and unlawful uses and disclosures of protected information in electronic information systems.
+
+Legal Requirements, Compliance and Practice: An Industry Case Study in Accessibility [ PDF ]
+(Breaux, Antón, Boucher, Dorfman)
+In IEEE RE'08. We present preliminary results from a gap analysis on CISCO product requirements using U.S. Section 508 accessibility law; the findings include five "best practice" refinement patterns to improve regulatory harmony.
+
+Semantic Parameterization: A Process for Modeling Domain Descriptions [ PDF ]
+(Breaux, Antón, Doyle)
+In ACM TOSEM, 18(2): 5. Presents a method for mapping descriptions of a domain (e.g., actors, actions, goals) to Description Logic formula. The resulting logical theory can be used to formally compare and reason about software requirements.
+
+In the News
+NIST publishes new Privacy Control Catalog in SP 800-53
+(July 19, 2011)
+The National Institute of Standards and Technology (NIST) proposed Appendix J to Special Publication 800-53 to aid federal information systems with satisfying critical privacy requirements. (see NIST Website).
+
+FTC promotes Privacy by Design in new framework
+(December 1, 2010)
+Federal Trade Commission (FTC) proposes new privacy framework, including Do Not Track and Privacy by Design to address increasing advances in technology and complex, often invisible, data practices (see FTC Website).
+
+SEC proposes Python as cash-flow e-file language
+(April 7, 2010)
+Securities Exchange Commission (SEC) proposes to require providers of asset-backed securities to file "a computer program of the contractual cash flow provisions of the securities in the form of downloadable source code in Python" (see SEC Website).
+
+U.S. Bill S.773 proposes common security configuration language
+(April 1, 2009)
+Early draft of the Cybersecurity Act of 2009 proposes a "standard computer-readable language for completely specifying the configuration of software" and a standard language "to communicate vulnerability data to software users in real time," similar to the FDCC, CVE and related standards.
+
+Calls for Papers
+36th ACM/IEEE International Conference on Software Engineering (ICSE'14)
+Dates: Jun 1-7, 2014, Hyderabad, India
+Submissions: Sep 13, 2013 (research papers)
+
+20th International Working Conference on Requirements Engineering: Foundations of Software Quality (REFSQ)
+Dates: Apr 7-10, 2014, Essen, Germany
+Submissions: Oct 9, 2013 (abstracts), Oct 16 (papers)
+
+22nd IEEE International Requirements Engineering Conference (RE'14)
+Dates: Aug 25-29, 2014, Karlskrona, Sweden
+Submissions: Mar 3/ Mar 10 (abstracts/research papers)
+
+Archives of the International Workshop on Requirements Engineering and Law (RELAW)
+
+Copyright © 2003-2020, Travis D. Breaux, breaux@cs.cmu.edu
+University of Southern California Logo
+
+Academic Programs
+Undergraduate Programs
+Masters Programs
+Doctoral Programs
+Executive Education
+Graduate Certificate Programs
+Online Learning
+Departments
+Admission
+Research
+Faculty
+Career Services
+About
+More
+Search
+Give Now
+
+Bruine de Bruin headshot new
+Wändi Bruine de Bruin
+Provost Professor of Public Policy, Psychology, and Behavioral Science
+contact information
+degrees
+expertise
+biographical sketch
+publications
+related tags
+Contact Information
+Email: wandibdb@usc.edu
+Curriculum Vitae
+Degrees
+PhD Behavioral Decision Research and Psychology
+Carnegie Mellon University
+Expertise
+Psychology of risk, behavioral decision making, age differences in decision-making competence and well-being, communications and behavior change interventions for promoting health, well-being, safety, and sustainability
+
+Biographical sketch
+Wändi Bruine de Bruin is a Provost Professor of Public Policy, Psychology, and Behavioral Science. She has published more than 120 peer-reviewed publications on public perceptions of risk, as well as understanding and informing decision making, on topics such as personal health, sustainability and climate change, as well as household finances. Across USC, she holds affiliations with the Sol Price School of Public Policy, the Department of Psychology, the Schaeffer Center for Health Policy and Economics, the Center for Economic and Social Research, and the Center for Sustainability Solutions, and the National Center for Risk and Economic Analysis of Terrorism Events (CREATE). She is a member of the editorial boards of the Journal of Experimental Psychology:Applied, the Journal of Behavioral Decision Making, Decision, Medical Decision Making, the Journal of Risk Research, and Psychology and Aging. Her research on age differences in decision making was recently covered by Psychology Today and the BBC World’s Why Factor. She has served on expert panels for the National Academy of Sciences on Communicating Science Effectively and for the Council of the Canadian Academies on Health Product Risk Communication. With colleagues in the Center for Economic and Social Research, she is running a national longitudinal survey to track symptoms, risk perceptions, protective behaviors, food insecurity, and political polarization during the COVID-19 pandemic in the US. She is also on the team that is running the 2020 election tracking poll.
+
+Affiliated Research Centers and programs:
+– Department of Psychology
+– Schaeffer Center for Health Policy and Economics
+– Center for Economic and Social Research
+– Center for Sustainability Solutions
+– National Center for Risk and Economic Analysis of Terrorism Events (CREATE)
+
+View the full list of Wändi’s publications
+
+READ MORE
+Selected publications
+Kapteyn, A., Angrisani, M., Bennett, D., Bruine de Bruin, W., Darling, J., Gutsche, T., Liu, Y., Meijer, E., Perez-Arce, F., Schaner, S., Thomas, K., & Weerman, B. [The CESR COVID-19 Task Force], Tracking the Effect of the COVID-19 Pandemic on the Lives of American Households; Survey Research Methods, 14, 179-186; 2020.
+Del Missier, F., Hansson, P., Parker, A. M., Bruine de Bruin, W., & Mäntylä, T., Decision-making competence in older adults: A rosy view from a longitudinal investigation; Psychology and Aging, 35, 553-564; 2020.
+De la Haye, K, Miller, S, Weber, K, Wilson, J, & Bruine de Bruin, W., The Impact of COVID-19 on Food Insecurity in Los Angeles County: April to May 2020; White Paper, USC Public Exchange; 2020.
+Lamy, J., Azevedo, I., Morgan, M.G., & Bruine de Bruin, W., Keep Wind Projects Close? A Case Study of Distance, Culture, and Cost in Offshore and Onshore Wind Energy Siting; Energy Research & Social Science, 63, doi: 10.1016/j.erss.2019.101377; 2020.
+Del Missier, F., Galfano, G., Venerus, E., Ferrara, D., Bruine de Bruin, W., & Penolazzia, B., Decision-Making Competence in Schizophrenia; Schizophrenia Research, 215, 457-459; 2020.
+Bruine de Bruin, W., Galesic, M., Parker, A.M., & Vardavas, R. , The Role of Social Circle Perceptions in ‘False Consensus’ About Population Statistics: Evidence from a National Flu Survey; Medical Decision Making, 40, 235-241; 2020.
+Bruine de Bruin, W., Parker, A.M., & Fischhoff, B., Decision-Making Competence: More than Intelligence?; Current Directions in Psychological Science, 29, 186-192; 2020.
+Bruine de Bruin, W., Parker, A.M., & Strough, J., Age Differences in Reported Social Networks and Well-Being; Psychology and Aging, 35, 159-168; 2020.
+Kause, A., Bruine de Bruin, W., Fung, F., Taylor, A., & Lowe, J., Visualizations of Projected Rainfall Change in the United Kingdom: An Interview Study about User Perceptions; Sustainability, 12, 1-21; 2020.
+Bruine de Bruin, W., & Bennett, D., Relationships between Initial COVID-19 Risk Perceptions and Protective Health Behaviors: A National Survey; American Journal of Preventive Medicine, 59, 157-167; 2020.
+MORE PUBLICATIONS
+Related tags
+Environment
+Health Care
+USC Price School of Public Policy
+USC Sol Price School of Public Policy
+
+Ralph and Goldy Lewis Hall 312
+
+Los Angeles, California 90089-0626
+
+(213) 740-6842 | admissions@price.usc.edu
+
+Price School Intranet
+Price School Webmail
+Faculty Jobs
+Faculty
+Publications
+Research Centers and Initiatives
+Privacy Notice
+FacebookTwitterYoutubeInstagramFacebookTwitterPodcasts
+Nicolas Christin
+Carnegie Mellon University
+Associate Professor, SCS/ISR and EPP
+Program Director, Societal Computing Ph.D. program
+
+Affiliate faculty appointments in
+CyLab, ECE and INI
+Bio sketch
+I am an Associate Professor (with tenure) at Carnegie Mellon University, jointly appointed in the School of Computer Science (Institute for Software Research) and in the department of Engineering and Public Policy. I am the director of the Societal Computing Ph.D. program. I am also a core faculty member of CyLab, our university-wide security institute, and have courtesy appointments in the Electrical and Computer Engineering department, and in the Information Networking Institute.
+
+I am a 2017 CSIS fellow, and a 2019 Carnegie Institute of Technology Dean Early Career fellow.
+
+I received a Diplôme d’Ingénieur (1999) from École Centrale de Lille, a Master’s (2000) and a Ph.D. (2003) in Computer Science from the University of Virginia. In the final year (2002-2003) of my Ph.D., I was working at Nortel Networks. I then spent two wonderful years (2003-2005) as a postdoctoral fellow in the School of Information at UC Berkeley, before joining Carnegie Mellon in July 2005. I was a faculty-in-residence for three years (2005-2008) CyLab Japan, the research and education center CMU used to have in Kōbe, which remains one of my favorite cities. After coming back to the US, I served as Associate Director of the Information Networking Institute from 2008 through 2013, as a research faculty in ECE from 2013 through 2016, and as a research faculty in my current departments from 2016 through 2019.
+
+I am on Twitter as @nc2y.
+
+Research overview
+My research interest is in computer and information systems security. Most of my work is at the boundary of systems, networking and policy research. While a good portion of my research activities could be qualified as applied research, I try as much as possible to rely on strong theoretical foundations in my work. In addition, most of my recent work is informed by empirical data measurements (of users, networks, economic transactions, …), so that the term "security analytics" is an appropriate short qualifier.
+
+More specifically, the different inter-related research threads in which I am currently involved are:
+[in brackets, some of the venues where we published on the subject]
+
+Online crime modeling: Current security attacks are more often than not financially motivated. We postulate that, by getting a more precise picture of the economic interactions between the different actors involved, we can better understand how to disrupt or thwart these attacks. This line of work is very applied, and combines economic modeling, network measurements, and public policy research.
+[KDD'19, USENIX Sec'18, PETS'18, IMC'17, USENIX Sec'15, CCS'14, ESORICS'14, EC'13, WWW'13, CCS'11, USENIX Sec'11, CCS'10, …]
+
+Predictive security analytics: Wouldn’t it be nice if we could foresee security issues before they actually harm users or infrastructure operators? We have shown this might be possible. We have developed systems to proactively detect exposure to attacks, both at the server and at the user levels. This work combines large-scale measurements with machine learning, and is closely related to our work on online crime modeling.
+[CCS'18, USENIX Sec'14]
+
+Continuous worldwide monitoring of online censorship: This line of work aims to continuously understand how governments attempt to control the information their users see, either by blocking access or by injecting specific content to affect public discourse. In particular, on the blocking side, we are very interested in examples of covert censorship, in which the censor silently terminates user connections, as opposed to overt censorship, where the censor explicitly tells users they are attempting to access restricted contents when blocking them. (The latter might be justifiable; the former usually is not, and gives interesting clues on some of the geopolitical dynamics at play.) Measuring interference at scale is incredibly challenging: country policies vary widely, censored pages change all the time, discriminating between random errors and actual malice is hard, and attempting to minimize human involvement to limit actual risk to people is tricky. We partner with ICLab at the University of Massachusetts and the Open Technology Fund in this multi-disciplinary endeavor, that spans computer networking and security, language processing, and even geopolitics.
+[Oakland'20, IMC'18, PETS'17]
+
+Usability and security: Making systems more secure has generally been at odds with what humans are good at; for instance, longer passwords are near-impossible to memorize, complex security policies are ignored and therefore useless, and so forth. This has resulted in large security meltdowns. Rather than treating human factors as a constraint in secure system design, we try to exploit what people are skilled at to make systems more secure. For instance, humans can very quickly recognize patterns, make inferences from incomplete information, and respond positively to proper messaging. Our work in that space finds applications in authentication applications, smart password meters, mobile payment systems, automated teller machines, to name a few.
+Software highlights include our open-source Carnegie Mellon password meter, and our neural network-based password cracker. For this work, we won the 2020 Allen Newell Award.
+[CCS'20, CHI'19, CHI'18, CHI'17, USENIX Sec'16, CHI'16, USENIX Sec'15, PETS'15, CHI'15, CHI'14, CCS'13, USENIX Sec'12, SOUPS'12, Oakland'12, CHI'11, FC'11, SOUPS'08, CHI'08, …]
+
+Security economics: We keep hearing about security attacks and breaches, despite the fact that most security problems have relatively low-cost solutions (e.g., patching, stronger access control, audits). I am interested in 1) understanding why, from an economic standpoint, people and corporations are seemingly either not investing enough in security, or investing in the wrong things, and 2) finding out if there are economic remedies or incentive compatible algorithms, that we, as a society, can use to improve this sad state of affairs. Behavioral economics, game theory as well as system design play a significant role in this cross-disciplinary work.
+[AAAI'15, IJCAI'13, CSF'11, ESORICS'10, FC'10, EC'08, WWW'08, …]
+
+The College of Engineering and the School of Computer Science have both produced slick videos (Engineering, Computer Science) in which I give high-level overviews of what my group is working on.
+
+Cross-cutting several of these projects, I am one of the co-PIs of the Security Behavior Observatory, a longitudinal, in situ user behavior measurement panel.
+
+Last but not least, our lab is a contributor to the DHS IMPACT Cybersecurity data portal.
+
+Support sources
+My current research work is partially supported by the National Science Foundation (awards CNS-1814817 and CMMI-1842020); the Department of Homeland Security Science and Technology Directorate, Cyber Security Division (DHS S&T/CSD), under agreement FA8750-19-0152, via the University of Tulsa; as part of an NSA Science of Security Lablet at Carnegie Mellon; through a gift from KDDI R&D Laboratories; through the Ripple UBRI initiative and partnership with Carnegie Mellon; and through Microsoft’s CyLab corporate membership.
+
+Past support sources include the Department of Homeland Security Science and Technology Directorate, Cyber Security Division (DHS S&T/CSD) (through BAA-11.02, contract number N66001-13-C-0131, in collaboration with the Government of Australia and SPAWAR Systems Center Pacific; and through agreement number FA8750-17-2-0188, as part of the DHS IMPACT program); the National Science Foundation (CCF-0424422, DGE-0903659, CNS-1116776, and CNS-1223762); the Portuguese Science and Technology Foundation via the CMU Portugal program; the PwC Risk and Regulatory Services Innovation Center at Carnegie Mellon’s Heinz College; NATO, through a CyLab membership; Google, through a 2016 Security, Privacy, and Anti-Abuse applied award; ICANN; the Army Research Office (DAAD19-02-1-0389); Toshiba Corp.; and Booz Allen Hamilton.
+
+I was also one of the original, "founding" co-PIs in the Army Research Lab Cyber-Security Collaborative Research Alliance (in collaboration with Penn State, Indiana University, UC Riverside and UC Davis; formally Cooperative Agreement Number W911NF-13-2-0045).
+
+Research group
+I am lucky to advise and work with six incredible Ph.D. students, Kyle Soska (ECE), Kyle Crichton (EPP, co-advised with Lorrie Cranor), Aurelia Augusta (EPP, co-advised with Lorrie Cranor), Alejandro Cuevas (SCS, Societal Computing), Jin-Dong (Mark) Dong (ECE), and Austin Whisnant (EPP);
+and to very closely collaborate with Dominic Deuber (currently visiting, albeit virtually, our group from the Friedrich-Alexander University of Erlangen), Zachary Weinberg (at U. Mass, but spending significant amounts of time with us as well), and Diogo Barradas (at IST/University of Lisbon).
+
+I am the proud academic parent of:
+
+Nektarios Leontiadis (Ph.D., EPP, 2014), now at Facebook (initially as a research scientist, now as a security engineering manager);
+Timothy Vidas (Ph.D., ECE, 2016), now a security researcher at SecureWorks;
+Luís Brandão (Ph.D., ECE/U. Lisbon, 2016; co-advised with Alysson Bessani), now a research scientist at NIST;
+Zachary Weinberg (Ph.D., ECE, 2018), now a postdoc in Phillipa Gill’s group at U. Mass, working on the ICLab project;
+Mahmood Sharif (Ph.D., ECE, 2019, co-advised with Lujo Bauer), now a research scientist at NortonLifeLock Research Group (formerly known as Symantec Research Labs); and
+János Szurdi (Ph.D., ECE, 2020), now a staff security researcher at Palo Alto Networks.
+Alain Forget (now at Google), Benjamin Johnson (now at Technical University of Munich), and Steve Matsumoto (now an Assistant Prof. at Olin College) did their postdocs in my research group.
+
+I also have had the pleasure of seeing a few Master’s students graduating under my supervision (listed in reverse chronological order): Xin Huang (M. Sc., INI, 2019), Behtash Banihashemi (M.Sc, EPP, 2019), Eugene Lemuel Garcia (M. Sc., INI, 2017), Qingping Hou (M. Sc., INI, 2014), Ryo Hoshino (M. Sc., INI, 2013), Dong Liu (M. Sc., INI, 2013), Honglin Feng (M. Sc., INI, 2012), Norio Tanaka (M. Sc., INI, 2012), Daniel Votipka (M. Sc., INI, 2012),
+Carlos Lopes Pereira (M.Sc., INI, 2011), Theodoros Messinis (M.Sc., INI, 2011), Qin Chao (M.Sc., INI, 2010), Shinichi Mori (M.Sc., INI, 2010), Sérgio Serrano (M.Sc., INI and University of Lisbon, 2010), Yu-Lo Su (M.Sc., INI, 2010), Chengye Zheng (M.Sc., INI, 2010), Sally Yanagihara (M.Sc., INI, 2009), Madoka Hasegawa (M.Sc., INI, 2008), Komsit Prakobphol (M.Sc., INI, 2008), Wumaierjiang Simayi (M.Sc., INI, 2008), Hirokazu Sasamoto (M.Sc., INI, 2007), Eiji Hayashi (M.Sc., INI, 2006), Kazuhito Maruyama (M.Sc., INI, 2006), Hiroshi Miwa (M.Sc., INI, 2006), Takeshi Niiyama (M.Sc., INI, 2006), Soon Hin Khor (M.Sc., INI, 2006), and Mika Sashikata (M.Sc., INI, 2006).
+
+Places of employment/positions after graduation include Software Engineering positions at Google, Facebook, LinkedIn, Oracle, Riot Games, Ph.D. studies at University of Tokyo, Carnegie Mellon Computer Science, and various engineering positions at Panasonic, Sharp, NTT West, NTT DoCoMo, Portugal Telecom…
+
+Selected publications
+Arian Akhavan Niaki, Shinyoung Cho, Zachary Weinberg, Nguyen Phong Hoang,
+Abbas Razaghpanah, Nicolas Christin, and Phillipa Gill. ICLab: A Global, Longitudinal Internet Censorship Measurement Platform. In Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland 2020), pages 135-151. San Francisco, CA. May 2020.
+
+Blase Ur, Felicia Alfieri, Maung Aung, Lujo Bauer, Nicolas Christin, Jessica Colnago, Lorrie Faith Cranor, Harold Dixon, Pardis Emami Naeini, Hana Habib, Noah Johnson, and William Melicher. Design and Evaluation of a Data-Driven Password Meter. In Proceedings of the 2017 ACM Conference on Human Factors in Computing Systems (CHI 2017), pages 3775-3786. Denver, CO. May 2017. Best paper award.
+
+William Melicher, Blase Ur, Sean Segreti, Saranga Komanduri, Lujo Bauer, Nicolas Christin, and Lorrie Faith Cranor. Fast, lean, and accurate: modeling password guessability using neural networks.
+In Proceedings of the 25th USENIX Security Symposium (USENIX Security'16). Austin, TX. August 2016. Best paper award.
+
+Kyle Soska and Nicolas Christin. Automatically Detecting Vulnerable Websites Before They Turn Malicious. In Proceedings of the 23rd USENIX Security Symposium (USENIX Security'14), pages 625-640. San Diego, CA. August 2014. Best student paper award.
+
+Michelle Mazurek, Saranga Komanduri, Timothy Vidas, Lujo Bauer, Nicolas Christin, Lorrie Faith Cranor, Patrick Gage Kelley, Richard Shay, and Blase Ur. Measuring Password Guessability for an Entire University. In Proceedings of the 20th ACM Conference on Computer and Communications Security (CCS 2013). Berlin, Germany. November 2013.
+
+Nicolas Christin. Traveling the Silk Road: A measurement analysis of a large anonymous online marketplace. In Proceedings of the 22nd International World Wide Web Conference (WWW'13), pages 213-224. Rio de Janeiro, Brazil. May 2013.
+
+Nektarios Leontiadis, Tyler Moore, and Nicolas Christin. Measuring and Analyzing Search-Redirection Attacks in the Illicit Online Prescription Drug Trade. In Proceedings of the 20th USENIX Security Symposium (USENIX Security'11). San Francisco, CA. August 2011.
+
+Saranga Komanduri, Richard Shay, Patrick Gage Kelley, Michelle Mazurek, Lujo Bauer, Nicolas Christin, Lorrie Cranor and Serge Egelman. Of Passwords and People: Measuring the Effect of Password-Composition Policies. In Proceedings of the 2011 ACM Conference on Human Factors in Computing Systems (CHI 2011), pages 2595-2604. Vancouver, BC, Canada. May 2011. Honorable mention award.
+
+Jens Grossklags, Nicolas Christin, and John Chuang. Secure or Insure? A Game-Theoretic Analysis of Information Security Games. In Proceedings of the 17th International World Wide Web Conference (WWW'08), pages 209-218. Beijing, China. April 2008.
+
+Nicolas Christin, Andreas S. Weigend, and John Chuang. Content Availability, Pollution and Poisoning in Peer-to-Peer File Sharing Networks. In Proceedings of the Sixth ACM Conference on Electronic Commerce (EC'05), pages 68-77. Vancouver, BC, Canada. June 2005.
+
+Nicolas Christin, Jörg Liebeherr, and Tarek F. Abdelzaher. Enhancing Class-Based Service Architectures with Adaptive Rate Allocation and Dropping Mechanisms. In IEEE/ACM Transactions on Networking 15(3), pages 669-682. June 2007.
+
+[Full list of publications]
+
+Press
+I have been sporadically commenting on various security and policy issues in local (WTAE 4, WPXI 11, …), national (Marketplace, National Public Radio (including All Things Considered), Wall Street Journal, …), and international (MIT Technology Review, Canal Plus (France), …) news media.
+
+My (and my group’s) own research gets quite a bit of exposure. Our measurement study of the Silk Road online anonymous marketplace received extensive press coverage: New Scientist (August 6, 2012), Wired UK (August 6, 2012), Forbes (August 6, 2012), Slashdot (August 7, 2012), Ars Technica (August 7, 2012), US News (August 7, 2012), Gawker (August 8, 2012), The Economist (September 29, 2012), and The New York Times (April 8, 2013) covered it among others, including some international press, e.g., Australia’s Sydney Morning Herald (August 10, 2012), Spain’s ABC (August 13, 2012), or Canada’s The Globe and Mail (August 15, 2012).
+This research was also featured on Marketplace (August 28, 2012) (radio), on NTN24 (August 14, 2012) (television), and extensively discussed in a Surprisingly Free (August 28, 2012) podcast. This piece of research has continued attracting a bit of attention whenever articles appear about the "deep web." For instance, it was quoted in this long article in France’s Le Nouvel Observateur (July 4, 2013). After the trial of the Silk Road founder concluded, CNBC (June 1, 2015) rediscovered it.
+
+Our follow-up work on the anonymous marketplace ecosystem was extensively covered in Wired (August 12, 2015), Motherboard (August 12, 2015), the Washington Post (August 12, 2015), the Daily Beast (August 20, 2015), in French in Le Monde (August 13, 2015), and in German in the Frankfurter Allgemeine Zeitung (August 14, 2015). It is also cited in CoinDesk (August 16, 2015), and the New Zealand Herald (August 14, 2015).
+
+Our loosely related work on Bitcoin exchanges was discussed in Wired UK (April 26, 2013).
+
+Our 2011 Financial Cryptography paper on figuring out how much it would take to incentivize people to adopt horrible security practices did not garner a lot of attention when it was originally published, but received extensive coverage after I presented the results at the 2014 Security and Human Behavior workshop: on Engadget (June 15, 2014), Business Insider (June 17, 2014), the Register (June 18, 2014), Slashdot (June 19, 2014), and Bruce Schneier’s blog (June 19, 2014), among many others.
+
+Our USENIX Security 2014 paper on predicting impending web server compromises was covered in the Daily Dot (August 21, 2014) and The Register (August 22, 2014).
+
+Earlier in my career, our work on illicit online pharmacies got a bit of coverage: CMU front page (August 11, 2011), Pittsburgh Post-Gazette, Pittsburgh Tribune, National Public Radio (August 12, 2011).
+
+Even earlier, our Undercover project was featured on the CMU front page (January 14, 2008), in The Tartan (January 21, 2008), [Dark Reading (February 5, 2008)](http://www.darkreading.com/document.asp?doc_id=145104&amp;WT.svl=news1 _2), Network World (February 8, 2008), PC World (February 10, 2008), and was "slashdotted" (February 8, 2008).
+
+Our research on passwords was the object of a feature article in Forbes (April 21, 2015), and in the Washington Post (September 8, 2017). Along with our work on online crime, it was also prominently featured in a Nature article (May 12, 2016).
+
+The Register (June 22, 2015) wrote on the problems we identified with nation-scale brokered identification schemes; Computing (June 23, 2015) discussed the GDS response.
+
+Courses taught
+17-331/17-631 (formerly 08-631/15-421): Information Security, Privacy, and Policy (F'17, F'18, F'19, F'20).
+
+17-994: Societal Computing Practicum (F'20).
+
+17-303/17-703/19-303/19-733 (formerly 08-303/19-355): Cryptocurrencies, Blockchains, and Applications (S'17, S'18, S'19, S'20).
+
+19-304: Basics of Cryptocurrencies, Blockchains, and Applications (S'20). (This is a "micro", or 3-unit version of the semester-long variant above, that I offered at CMU Qatar in January 2020.)
+
+14-741/18-631: Introduction to Information Security (F'05 (as 14-830), F'06, F'07, F'08, F'09, F'10, F'11, F'12, F'13, F'14, F'15, S'16, F'16).
+
+08-734/08-534/05-836/05-436/19-734/19-534: Usable Privacy and Security (S'16).
+
+14-846: Special Topics: Elements of Web Security (M'15, in Silicon Valley).
+
+18-731: Network Security (S'14).
+
+14-742: Security in Networked Systems (S'06 (as 14-831), S'07, S'08, S'10).
+
+14-813: Special Topics: Elements of Security in Networked Systems (M'09, in Japan). 14-709: Information Networking Thesis (Master’s summer practicum, M'06, M'07, M'08, M'09, M'10).
+
+I also taught a short course (MT-114: Introduction to Information Security) at EM Lyon Business School in June 2011.
+
+Recent professional service
+With Vyas Sekar and Konstantinos Pelechrinis, I am the general (co-)chair for IMC 2020, which will be held in Pittsburgh online due to the Covid situation.
+
+I am chairing or have co-chaired the program committees for WEIS 2020, Financial Cryptography 2014, the Security, Privacy, Trust & Abuse Track at WWW 2014, and the BITCOIN 2015 workshop.
+
+I am/have been a program committee member for a number of conferences and workshops, including IEEE Symposium on Security & Privacy ("Oakland") (2014, 2015, 2016, 2019, 2020, 2021), ACM CCS (2013, 2017, 2018, 2019, 2020), USENIX Security (2014, 2015, 2016, 2017), NDSS (2014, 2015, 2016, 2017), IEEE Euro S&P 2020, SOUPS (2019), WWW (2014, 2016, 2017), IEEE ICNP 2017, CoNext 2016, WEIS (2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020), APWG eCrime (2012, 2013, 2014, 2016), NETECON 2016, Financial Cryptography (2012, 2013, 2014, 2015, 2017, 2018), BITCOIN (2014, 2015, 2016, 2017, 2018), WPES 2015, MILCOM 2014, IEEE CNS 2014, WiSec 2014, TrustCol 2012, GameSec 2012, BADGERS 2012, MedCOMM 2012, USENIX FOCI'11, WECSR 2011, ACM EC (2006, 2010), ACM SAC'09 (Information Security Research Track), ICEC'09, IEEE INFOCOM'07, IBC'06, and P2PECON'05, and I also routinely serve as a reviewer for some journals, including IEEE/ACM Transactions on Networking, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Mobile Computing…
+
+I was the web and publicity chair for ACM SIGCOMM 2011.
+
+Public service
+Since September 2017, I have been serving on the Research subcommittee of the Financial Research Advisory Committee, U.S. Department of Treasury Office of Financial Research.
+
+On March 15, 2018, I testified before the Subcommittee on Terrorism & Illicit Finance, Committee on Financial Services, U.S. House of Representatives, 115th Congress, in a hearing entitled
+After the Breach: The Monetization and Illicit Use of Stolen Data. My written testimony is here, and the video of the entire hearing is here. My oral testimony starts at 35'55”.
+
+Miscellanea
+The Silk Road paper eventually indirectly led to my silver screen debut: I got a few seconds of screen time in the Deep Web documentary movie by Alex Winter. So, I technically have a Bacon number of 3 or less (me, Keanu Reeves, Miriam Margolyes, Kevin Bacon) to go along my Erdös number of 3 or less (me, Ariel Procaccia, Noga Alon, Paul Erdös). I am writing "technically," because there is controversy about whether documentaries should count. But still, it is fun to have a plausible claim to being one of the people to have a finite Erdös-Bacon number. (I am actually reasonably likely to have a finite Erdös-Bacon-Sabbath number, but that’s a story for another day, which involves harkening back to my misspent youth.) A more fun/random fact is that Tim Vidas and I are one of the very rare advisor-advisee pairs to both have (independently computable) finite Erdös-Bacon numbers, since Tim appeared in the DEFCON documentary. My own post-doctoral advisor, John Chuang, also has a finite Erdös-Bacon number, through different chains. So, that is (arguably) three academic generations of Erdös-Bacon number holders in a row!
+
+A long, long time ago, I was responsible for getting the ns-2/nam network simulator to compile and work natively under MS Windows/Cygwin. I have, however, transferred maintenance to the ns-2 development team more than fifteen years ago, so I am really not the right person to ask anymore, especially given that most of this has been made obsolete by ns-3.
+
+HERE
+Main
+Publications (by year)
+Publications (by topic)
+ELSEWHERE
+17-331/17-631 (F20)
+17-994 (F20)
+17-303/17-703/19-303/19-733 (S20)
+19-304 (S20)
+SCS
+ISR
+EPP
+CyLab
+ECE
+INI
+Societal Computing PhD
+DHS IMPACT
+Google Scholar profile
+DBLP profile
+CONTACT
+Nicolas Christin
+Carnegie Mellon University
+Collaborative Innovation Center #2202
+4720 Forbes Avenue
+Pittsburgh, PA 15213
+U.S.A.
+Phone: (+1) 412-268-4432
+Fax: (+1) 412-268-7675
+Twitter: @nc2y
+Email: (PGP key)
+   nicolasc at the obvious
+Administrative assistants:
+Katharine Carlsson (Societal Computing matters only)
+Brittany Frost (everything else)
+
+Email is by far the best way to reach me. I seldom check voicemail.
+Valid XHTML 1.0! Creative Commons License
+
+Copyright © Nicolas Christin 1998-2020. All content on this website (including text, photographs, software, and any other original works), unless otherwise noted, is licensed under a Creative Commons License. The layout is derived from MovableStyle's "WinterWonder" theme.
+
+Last modified: 2020-09-02 14:47:41 -0400 EDT
+"Coffee is for closers only."
+(Glengarry Glen Ross)
+
+ KAREN CLAY
+HOME
+ 
+RESEARCH
+ 
+TEACHING
+ 
+MEDIA
+ 
+CONTACT
+Smoke.jpeg
+Karen Clay is Professor of Economics and Public Policy at Carnegie Mellon's Heinz College. She holds courtesy appointments at the Tepper School of Business and in the Department of Engineering and Public Policy, is a Senior Fellow at the Scott Institute for Energy Innovation at Carnegie Mellon, is an affiliated faculty member at the University of Pittsburgh, School of Law, and is a research associate at the NBER. Professor Clay's research has been supported by the National Science Foundation, the Department of Energy, the Sloan Foundation, and the Heinz Foundation. Her work has been published in the Journal of Political Economy, Review of Economics and Statistics, and American Economic Review, Papers and Proceedings. Before coming to Carnegie Mellon, Karen Clay was an assistant professor at the University of Toronto.  She received her Ph.D. from Stanford University and her B.A. in Economics and Math from the University of Virginia.
+
+View fullsize
+Heinz_2016_Clay_0279.jpg
+© Karen Clay 2018
+
+CONTACT:
+kclay@andrew.cmu.edu 
+
+MAILING ADDRESS:
+Heinz College, Carnegie Mellon University, 5000 Forbes Ave., Pittsburgh PA 15213
+
+ 
+This page: Contact | News | Research | Publications | Affiliations | Teaching | Students | Consulting | Personal
+Elsewhere: Blog | Bio | Resume | Press | Videos | Columns | Quilts | Photos | Academic genealogy | Everything else
+[LORRIE'S PHOTO]
+
+Lorrie Faith Cranor
+Director and Bosch Distinguished Professor in Security and Privacy Technologies, CyLab Security and Privacy Institute
+FORE Systems Professor, Computer Science and Engineering & Public Policy
+
+Director, CyLab Usable Privacy and Security Laboratory
+Co-director, MSIT-Privacy Engineering masters program
+
+I was on leave from CMU in 2016 to serve as Chief Technologist at the US Federal Trade Commission. But now I'm back at CMU!
+
+Facebook Twitter LinkedIn    
+Contact
+mailing address: Carnegie Mellon University, CIC 2107, 4720 Forbes Avenue, Pittsburgh, PA 15213
+office: CIC 2107 (4720 Forbes Ave [directions])
+phone: 412-268-7534 (I rarely check voice mail)
+email: lorrie AT cs DOT cmu DOT edu
+administrative assistant: Tiffany M. Todd, (412) 268-6367, ttodd AT cs DOT cmu DOT edu
+
+How should you address me? Professor Cranor and Dr. Cranor are both fine if this is a professional context where titles are used. Outside of professional contexts you may use Dr. Cranor or Ms. Cranor. Please do not address me as Mrs. Cranor in any context. If we're not using titles, then Lorrie is just fine. If you can't decide whether to be formal or not, Professor Lorrie will also do. Pronouns: she/her.
+
+Important information for prospective students and visitors
+
+Research focus
+Usable privacy and security, technology and public policy - See the CyLab Usable Privacy and Security Laboratory website for more information or watch a short video about my research
+
+Highlights
+2019 McKelvey School of Engineering Alumni Achievement Award video
+Lots of videos and news articles
+Advice for women in computer science: An interview I did with students from the CMU women@scs organization
+Tales from an Accidental Computer Science Professor - 60 minute talk plus questions, Indiana University, February 8, 2018
+Read about CMU research on usable and secure passwords
+CBS Sunday Morning video featuring me and my password dress - also text version
+The now-famous password dress, the companion security blanket quilt that was featured in Science Magazine, the CNET article, password chairs and more and you can order the fabric and ties and read about our passwords research
+My Tech@FTC blog post Time to rethink mandatory password changes
+Watch my 5-minute Davos video on Personal Privacy Assistants and the Internet of Things, and read my trip report
+Check out our Privacy Illustrated website featuring illustrations of privacy from kindergartners through adults
+A short piece I wrote for MIT Technology Review about how difficult it is to protect your privacy
+The CUPS Lab has openings for PhD students and postdocs with a background in usable security or privacy, undergraduate research assistants, as well as research programmers and CMU students who want part-time programming jobs
+We are now accepting applications for the Fall 2020 class of our MSIT-Privacy Engineering masters program
+Check out our search engine for comparing bank privacy policies
+My TEDxCMU 2014 talk on passwords (as featured on Delta Airlines Inflight Entertainment)
+A 60-minute presentation I gave in Fall 2013: Computers, Quilts, and Privacy
+I spent 2014-15 learning a lot about leadership as an ELATE Fellow. Female faculty in STEM fields should consider applying.
+Current projects
+Usable Privacy Policy Project, usable and secure passwords, privacy decision making, user-controllable security and privacy, usable cyber trust indicators
+
+Previous research
+anti-phishing, P3P, electronic voting, and security vulnerabilities in movie distribution
+
+Publications
+
+See Publications section of my resume (sorted by publication type)
+CUPS website publication list (sorted by topic, includes other peoples' publications as well)
+My Google Scholar page
+My ACM Digital Library author page
+My dblp page
+CMU affiliations
+Institute for Software Research in the School of Computer Science
+Engineering and Public Policy department in the College of Engineering
+CyLab Usable Privacy and Security Laboratory (CUPS) (director) in CyLab
+MSIT-Privacy Engineering masters program (co-director)
+Ph.D. Program in Societal Computing
+Electrical & Computer Engineering Department (affiliate faculty)
+Human-Computer Interaction Institute (affiliate faculty)
+Heinz College (affiliate faculty)
+STUDIO for Creative Inquiry (fellow and member of Deep Lab)
+Other affiliations
+Computing Research Association Board of Directors, 2019-2022
+ELATE Fellow, 2014-15
+Electronic Frontier Foundation Board of Directors, 2007-2015
+The Future of Privacy Forum Advisory Board, 2009-2015, 2017-
+Deep Lab, Founding member
+Wombat Security Technologies, co-founder
+AT&T Labs-Research, 1996 - 2003
+Teaching
+
+17-734 / 17-334 [previously 08-534 / 08-734 ] / 5-436 / 5-836 / 19-534 / 19-734 Usable Privacy and Security
+SP18, SP17, SP15, SP14, FA11, FA09, SP08, SP07, SP06
+17-733 /17-333 [previously 8-533 / 8-733] / 19-608 / 95-818: Privacy Policy, Law, and Technology
+FA15,FA14, FA13, FA10,FA08, FA07, FA05, FA04, SP04
+8-602: Current Topics in Privacy Seminar
+FA13, FA14, FA15, SP17, SP18
+8-606 Privacy by Design Workshop / 8-607 Privacy by Design Practicum
+FA17, Summer15, Summer14
+15-290 / 17-290 / 19-211: Special Topics: Computers and Society
+SP07, SP06, SP05
+EPP Undergraduate Project
+SP09 Carrying Capacity, SP10 Privacy, SP11 Green Printing, SP12 Emergency Messaging with Social Media
+COS PhD seminar
+SP06, FA05, SP05, FA04
+08-709 Privacy Technology (MSIT eBusiness Program)
+SP15, SP14, SP13, SP12, SP11, SP10, SP09, SP08, SP07, SP06
+Students
+
+Current PhD Students: Aurelia Augusta (EPP), Jessica Colnago (Societal Computing), Kyle Crichton (EPP), Pardis Emami Naeini (Societal Computing), Hana Habib (Societal Computing), Maggie Oates (Societal Computing), Sarah Pearman (Societal Computing), Josh Tan (Societal Computing)
+
+Graduated PhD Students (advisor): Rebecca Balebako (EPP PhD 2014), Cristian Bravo Lillo (EPP PhD 2014), Serge Egelman (COS PhD 2009), Patrick Kelley (COS PhD 2013, co-advisor w/ N. Sadeh), Saranga Komanduri (Societal Computing PhD 2016), Ponnurangam Kumaraguru (COS PhD 2009), Pedro Leon (EPP PhD 2014), Abby Marsh (Societal Computing PhD 2018), Aleecia McDonald (EPP PhD 2010), Rob Reeder (CSD PhD 2008), Rich Shay (COS PhD 2015), Steve Sheng (EPP PhD 2009), Manya Sleeper (Societal Computing PhD 2016), Janice Tsai (EPP PhD 2009), Blase Ur (Societal Computing PhD 2016), Kami Vaniea (CSD PhD 2012, co-advisor w/ L. Bauer)
+
+Graduated PhD Students (committee member): Andrew Besmer (PhD 2013 University of North Carolina at Charlotte), Varun Dutt (EPP PhD 2011), Patrick Feng (PhD 2002 Rensselaer Polytechnic Institute), Maritza Johnson (PhD 2012 Columbia University), Cynthia Kuo (EPP PhD 2008), Elaine Newton (EPP PhD 2009), Kursat Ozenc (Design PhD 2011), Brandon Salmon (ECE PhD 2009), Karen Tang (HCII PhD 2010)
+
+Consulting
+I have consulted for companies and non-profits on privacy policies, P3P, usable privacy and security, and technology policy. I have also served as an expert witness in patent litigation and in privacy cases, and in cases challenging the constitutionality of Internet harmful-to-minors laws, including the ACLU's successful challenge to the 1998 Children's Online Protection Act. I currently do expert witness consulting through Harbor Labs.
+
+Personal
+I spend most of my free time with my husband (Chuck), son (Shane), and daughters (Maya and Nina). I walk to work, practice yoga, take lots of photos, and design and create quilts. I also serve as an elected election judge, SciTech PTO President, and Dynamoms women's soccer commissioner.
+
+Painted Sun Quilt Thesis2 Quilt Happy Flowers Quilt Circular Logic Quilt 2hip 2b square Quilt
+
+Blog | Bio | Resume | Press | Quilts | Photos | Everything else
+
